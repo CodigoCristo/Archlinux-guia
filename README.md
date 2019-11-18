@@ -8,8 +8,10 @@ sudo pacman -S android-file-transfer msmtp libmtp libcddb gvfs gvfs gvfs-afc gvf
 Me falto wine
 
 
-sudo pacman -S wine-staging winetricks zenity kdialog 
+sudo pacman -S wine-staging winetricks kdialog 
 dosbox
+cups
+samba
 vkd3d
 lib32-vkd3d 
 vulkan-headers
